@@ -80,4 +80,3 @@ Testing/
 *.hex
 *.elf
 *.eep
-build/
